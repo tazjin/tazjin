@@ -1,5 +1,5 @@
 hi
 
-i work on research reliability at deepmind, we teach big computers how to think.
+i don't really work at the moment, spending some time learning languages and decompressing from lockdowns.
 
-most of my personal code is at [cs.tvl.fyi](https://cs.tvl.fyi), not here. more specifically, you can [look here](https://cl.tvl.fyi/q/owner:tazjin) to see what i've been doing recently.
+if you *really* want me to do some consulting for you (remotely, unless you're in moscow) then please email me.
