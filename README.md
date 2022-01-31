@@ -1,5 +1,7 @@
 hi
 
-i don't really work at the moment, spending some time learning languages and decompressing from lockdowns.
+you'll find most of my code on [cs.tvl.fyi](https://cs.tvl.fyi) instead, i don't really use github.
 
-if you *really* want me to do some consulting for you (remotely, unless you're in moscow) then please email me.
+i have a [telegram channel](https://t.me/tazlog) where you can "follow" me, and a [website](https://tazj.in/) with infrequent updates.
+
+i also have [a company](https://tvl.su/) through which i do some consulting.
