@@ -4,4 +4,4 @@ you'll find most of my code on [cs.tvl.fyi](https://cs.tvl.fyi) instead, i don't
 
 i have a [telegram channel](https://t.me/tazlog) where you can "follow" me, and a [website](https://tazj.in/) with infrequent updates.
 
-i also have [a company](https://tvl.su/) through which i do some consulting.
+i do some consulting, please reach out via mail if you would like to collaborate.
